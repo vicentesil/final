@@ -1,6 +1,2 @@
 # final
-
-correr programa:
-
-make all
-./train ficheiro.txt
+ instrucoes para correr na main.c
